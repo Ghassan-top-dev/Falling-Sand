@@ -2,9 +2,11 @@ FallingSand1.0
 
 Falling Sand Simulator incorporating elements of cellular automata by Ghassan Murad Agha "Ghassan-Top-Dev".
 
-TO-RUN:
+TO-RUN and Download for Windows:
 
-Simply double click the main.exe file.
+Clone this folder on your machine.
+
+Double click the main.exe file.
 
 Controls:
 
